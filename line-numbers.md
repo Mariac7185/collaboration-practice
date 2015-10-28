@@ -8,7 +8,7 @@
 #### 8
 #### 9 Github is really awesome
 #### 10
-#### 11 Software is not hard
+#### 11 Software is not really hard
 #### 12
 #### 13
 #### 14
